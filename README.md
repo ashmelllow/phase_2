@@ -63,9 +63,7 @@ emotion-analysis/
 
 ## 📁 Dataset
 
-A sample dataset is provided in the `data/` folder. For a larger real-world dataset, consider:
-- [Kaggle Twitter Emotion Dataset](https://www.kaggle.com/datasets)
-- Scraping YouTube/Instagram comments using APIs or tools like `snscrape`
+A gradio deployment code for this project is "{ https://92d49d3f0f07f194e5.gradio.live }"
 
 ---
 
