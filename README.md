@@ -63,7 +63,7 @@ emotion-analysis/
 
 ## 📁 Dataset
 
-A gradio deployment code for this project is "{ https://92d49d3f0f07f194e5.gradio.live }"
+A gradio deployment code for this project is "{ https://a3aa00994a6ba88a18.gradio.live }"
 
 ---
 
